@@ -1,0 +1,17 @@
+body{
+  background-color: rgb(243, 239, 239);
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#inp{
+  width: 450px;
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  margin-top: 310px;
+  align-self: center;
+  border-radius: 12px;
+}
